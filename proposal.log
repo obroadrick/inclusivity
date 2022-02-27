@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  27 FEB 2022 15:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  27 FEB 2022 16:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -263,7 +263,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [1
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<images/gender_identity.png, id=76, 602.25pt x 359.3425pt>
+<images/gender_identity.png, id=80, 602.25pt x 359.3425pt>
 File: images/gender_identity.png Graphic file (type png)
 
 <use images/gender_identity.png>
@@ -273,7 +273,7 @@ Package pdftex.def Info: images/gender_identity.png used on input line 93.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/race_ethnic_group.png, id=78, 602.25pt x 372.39125pt>
+<images/race_ethnic_group.png, id=82, 602.25pt x 372.39125pt>
 File: images/race_ethnic_group.png Graphic file (type png)
 
 <use images/race_ethnic_group.png>
@@ -283,7 +283,7 @@ Package pdftex.def Info: images/race_ethnic_group.png used on input line 100.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/class.png, id=79, 602.25pt x 372.39125pt>
+<images/class.png, id=83, 602.25pt x 372.39125pt>
 File: images/class.png Graphic file (type png)
  <use images/class.png>
 Package pdftex.def Info: images/class.png used on input line 107.
@@ -303,28 +303,25 @@ Missing character: There is no œ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no  in font cmr10!
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 221.
- [6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 221.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 224.
+ [6] [7]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 224.
  (./proposal.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 221.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 221.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 224.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 224.
+Package rerunfilecheck Info: File `proposal.out' has not changed.
+(rerunfilecheck)             Checksum: 62FC96D0577F53348CEC632A12D9AFEA;1004.
 
 
-Package rerunfilecheck Warning: File `proposal.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package rerunfilecheck Info: Checksums for `proposal.out':
-(rerunfilecheck)             Before: 3B47AFCA8FBE9BCB85EC0526C18B5AB7;928
-(rerunfilecheck)             After:  62FC96D0577F53348CEC632A12D9AFEA;1004.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 221.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 224.
  ) 
 Here is how much of TeX's memory you used:
- 5166 strings out of 492995
- 77196 string characters out of 6132704
+ 5168 strings out of 492995
+ 77218 string characters out of 6132704
  164644 words of memory out of 5000000
- 8659 multiletter control sequences out of 15000+600000
+ 8660 multiletter control sequences out of 15000+600000
  8241 words of font info for 29 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  28i,8n,28p,327b,450s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -338,10 +335,10 @@ al/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/
 texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/tex
 live/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
 ive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on proposal.pdf (6 pages, 166265 bytes).
+Output written on proposal.pdf (7 pages, 167531 bytes).
 PDF statistics:
- 167 PDF objects out of 1000 (max. 8388607)
- 141 compressed objects within 2 object streams
- 37 named destinations out of 1000 (max. 500000)
- 128 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 176 PDF objects out of 1000 (max. 8388607)
+ 149 compressed objects within 2 object streams
+ 38 named destinations out of 1000 (max. 500000)
+ 136 words of extra memory for PDF output out of 10000 (max. 10000000)
 
