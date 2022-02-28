@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  27 FEB 2022 20:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  27 FEB 2022 20:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -306,28 +306,28 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
  [1
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<images/gender_identity.png, id=78, 602.25pt x 359.3425pt>
+<images/gender_identity.png, id=82, 602.25pt x 359.3425pt>
 File: images/gender_identity.png Graphic file (type png)
 
 <use images/gender_identity.png>
 Package pdftex.def Info: images/gender_identity.png used on input line 101.
-(pdftex.def)             Requested size: 328.82707pt x 196.20789pt.
+(pdftex.def)             Requested size: 352.31625pt x 210.22273pt.
 
-<images/race_ethnic_group.png, id=80, 602.25pt x 372.39125pt>
+<images/race_ethnic_group.png, id=84, 602.25pt x 372.39125pt>
 File: images/race_ethnic_group.png Graphic file (type png)
 
 <use images/race_ethnic_group.png>
 Package pdftex.def Info: images/race_ethnic_group.png used on input line 108.
-(pdftex.def)             Requested size: 328.82707pt x 203.33275pt.
+(pdftex.def)             Requested size: 352.31625pt x 217.85652pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/class.png, id=81, 602.25pt x 372.39125pt>
+<images/class.png, id=85, 602.25pt x 372.39125pt>
 File: images/class.png Graphic file (type png)
  <use images/class.png>
 Package pdftex.def Info: images/class.png used on input line 115.
-(pdftex.def)             Requested size: 328.82707pt x 203.33275pt.
+(pdftex.def)             Requested size: 352.31625pt x 217.85652pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -347,25 +347,19 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 263.
  (./proposal.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 263.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 263.
+Package rerunfilecheck Info: File `proposal.out' has not changed.
+(rerunfilecheck)             Checksum: 0963B03827E68BA95C6A081D69B2151A;991.
 
-
-Package rerunfilecheck Warning: File `proposal.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `proposal.out':
-(rerunfilecheck)             Before: 68BE372535104F16072245613230F520;945
-(rerunfilecheck)             After:  0963B03827E68BA95C6A081D69B2151A;991.
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 263.
  ) 
 Here is how much of TeX's memory you used:
- 5597 strings out of 492995
- 83436 string characters out of 6132704
- 176488 words of memory out of 5000000
- 9086 multiletter control sequences out of 15000+600000
+ 5598 strings out of 492995
+ 83447 string characters out of 6132704
+ 176521 words of memory out of 5000000
+ 9087 multiletter control sequences out of 15000+600000
  8241 words of font info for 29 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  28i,8n,32p,310b,461s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -380,10 +374,10 @@ l/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/t
 exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texl
 ive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
 ve/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on proposal.pdf (6 pages, 179418 bytes).
+Output written on proposal.pdf (6 pages, 179380 bytes).
 PDF statistics:
- 174 PDF objects out of 1000 (max. 8388607)
- 147 compressed objects within 2 object streams
+ 177 PDF objects out of 1000 (max. 8388607)
+ 150 compressed objects within 2 object streams
  37 named destinations out of 1000 (max. 500000)
- 128 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 136 words of extra memory for PDF output out of 10000 (max. 10000000)
 
